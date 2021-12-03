@@ -1,0 +1,32 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android_app.MainActivity"
+    app:cnb_unselectedColor="#666666">
+    <item
+        android:id="@+id/nav_item_vehicles_overview"
+        android:icon="@drawable/ic_directions_car_24"
+        android:title="Vehicles"
+
+    />
+    <item
+        android:id="@+id/nav_item_registrations_overview"
+        android:icon="@drawable/ic_registrations"
+        android:title="myRegistrationsOverview"
+    />
+    <item
+        android:id="@+id/nav_item_account_signin"
+        android:icon="@drawable/ic_manage_accounts_24"
+        android:title="Account"
+        />
+    <!--
+     <item
+         android:id="@+id/action_settings"
+         android:orderInCategory="100"
+         android:title="@string/action_settings"
+         app:showAsAction="never" />
+     -->
+
+
+</menu>

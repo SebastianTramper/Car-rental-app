@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_title">Aanmelden</string>
+    <string name="login_email_input">Email</string>
+    <string name="login_password_input">Password</string>
+    <string name="login_submit_input">Inloggen</string>
+    <string name="login_no_account_yet">Nog geen account?</string>
+
+    <string name="register_title">Registeren</string>
+    <string name="register_firstname_input">Voornaam</string>
+    <string name="register_lastname_input">Achternaam</string>
+    <string name="register_email_input">Email</string>
+    <string name="register_password_input">Password</string>
+    <string name="register_phone_input">Telefoonnummer</string>
+    <string name="register_address_input">Adres</string>
+    <string name="register_zipcode_input">Postcode</string>
+    <string name="register_country_input">Land</string>
+    <string name="register_submit_input">Registeren</string>
+    <string name="register_has_account_already">Heb je al een account?</string>
+</resources>

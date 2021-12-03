@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="registrations_title">Mijn registraties</string>
+    <string name="registrations_tab_rent">Huren</string>
+    <string name="registrations_tab_let">Verhuren</string>
+
+</resources>
